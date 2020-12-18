@@ -1,7 +1,11 @@
-### Hi there 👋
+## FE Developer 장영진 👋
+
+
+- 🔭 현재 VSQUARE의 FE Developer 입니다.
+- 🌱 최신 프레임워크 기반의 웹 작성에 관심이 있습니다!
 
 <!--
-**lunaJYJ/lunaJYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevJYJ/DevJYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
