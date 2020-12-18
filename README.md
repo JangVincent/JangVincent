@@ -6,7 +6,7 @@
 
 ### 작업Log
 
-- 총신대학교 대학원 입학페이지 사이트맵 : http://graent.chongsin.ac.kr
+- 총신대학교 대학원 입학페이지 사이트맵 : http://graent.chongshin.ac.kr
 - 자생한방병원 E-mail Form : 
 
 <!--
