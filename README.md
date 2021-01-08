@@ -9,7 +9,7 @@
 
 - 총신대학교 대학원 입학페이지 사이트맵 : http://graent.chongshin.ac.kr
 - 자생한방병원 E-mail Form
-- 한국여성인권진흥원
+- 한국여성인권진흥원 : http://edu.stop.or.kr
 
 <!--
 **DevJYJ/DevJYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
