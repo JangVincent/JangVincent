@@ -10,7 +10,7 @@
 - 총신대학교 : http://www.chongshin.ac.kr
 - 자생한방병원 E-mail Form
 - 한국여성인권진흥원 : http://edu.stop.or.kr
-- 정화예술대학교 메인페이지
+- 정화예술대학교 메인페이지 : jb.ac.kr
 
 <!--
 **DevJYJ/DevJYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
