@@ -22,7 +22,7 @@
                     <th>지역</th>
                     <th>주최자</th>
                     <th>참가자</th>
-
+                    <th>당일/연일</th>
                 </table>
             </div>
         </div>
@@ -61,14 +61,38 @@
             {date : '2021-04-21', location : '대전', maker : '알파', inPeople : '반곱슬 알파'},
             {date : '2021-05-15, 16', location : '부산', maker : '보라', inPeople : '보라 렌 염 라임'},
             {date : '2021-05-26', location : '서울', maker : '달밤', inPeople : '달밤 달빛 염 린 삡(미정) 체리(미정)'}
-        ]
+        ];
+
+        //날짜순 정렬
+        list = list.sort(function(a, b) {
+            var a_date = (a.date).split(', ');
+            var b_date = (b.date).split(', ');
+
+            return new Date(a_date[0]) - new Date(b_date[0]);
+        })
+
 
         var jList = page.find('.table_wrapper table');
-
         if(list.length != 0) {
             for(var i in list) {
-                console.log(list[i])
                 var item = list[i];
+
+                var itemDateString = (item.date).split(', ');
+                var term
+                //당일일때
+                if(itemDateString[1] == "" && itemDateString[1] == undefined) {
+                    term = 1
+                } else {
+                //연일일때
+                var date = new Date(itemDateString[0]);
+                term = Number(itemDateString[1]) - date.getDate() + 1
+                }
+
+                if(isNaN(term)) {
+                    term = "당일"
+                }
+
+
                 var jItem = $('<tr></tr>');
 
 
@@ -77,6 +101,13 @@
                 jItem.append('<td>'+item.location+'</td>')
                 jItem.append('<td>'+item.maker+'</td>')
                 jItem.append('<td>'+item.inPeople+'</td>')
+                jItem.append('<td>'+term+'</td>')
+
+                //두 날짜 사이 일수를 계산해서 강조표시
+                if((new Date(itemDateString[0]).getTime() - new Date().getTime())/1000/60/60/24 <= 7) {
+                    jItem.css('background-color' , '#fbe0c4')
+                }
+
 
                 jList.append(jItem)
             }
