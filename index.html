@@ -72,6 +72,24 @@
 
             return new Date(a_date[0]) - new Date(b_date[0]);
         })
+        
+        
+        //지난 날짜 
+        var removeArr = [];
+        for(var i in list) {
+            var item = list[i];
+            var itemDateString = (item.date).split(', ');
+            
+            var date = new Date(itemDateString[0]);
+            var gapBetweenDate = (date.getTime() - new Date().getTime())/1000/60/60/24;
+            if(gapBetweenDate < 0) {
+                removeArr.push(i);
+            }
+        }
+        
+        for(var i in removeArr) {
+            list.splice(removeArr[i] , 1);
+        }
 
 
         var jList = page.find('.table_wrapper table');
