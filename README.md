@@ -8,9 +8,10 @@
 ### 작업Log
 
 - 총신대학교 : http://www.chongshin.ac.kr
-- 자생한방병원 E-mail Form
+- 자생한방병원 : https://jaseng.education
 - 한국여성인권진흥원 : http://edu.stop.or.kr
-- 정화예술대학교 메인페이지 : jb.ac.kr
+- 정화예술대학교 메인페이지 : http://jb.ac.kr
+- 급식관리센터
 
 <!--
 **DevJYJ/DevJYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
