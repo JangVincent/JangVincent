@@ -16,7 +16,7 @@
 - 어린이급식관리지원센터 식단관리서비스(BE) : https://menuplan.ccfsm.or.kr/
 
 #### In Side Project
-- SideTrack-VFLO : 진행중
+- SideTrack-VFLO(BE) : 진행중
 
 ### 기술 스택
 - JAVA Spring
