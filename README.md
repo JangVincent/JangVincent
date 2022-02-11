@@ -1,10 +1,8 @@
 ## BE Developer 장영진 👋
 
-- 🌱 현재 사이드 프로젝트 팀 *사이드 트랙* 에서 백엔드 개발자로 진행중에 있습니다.
-
 ### 이력
 - 🔭 (전) VSQUARE BE Developer (20.12.09 ~ 21.12.09)
-
+- 🔭 사이드 프로젝트 팀 *사이드 트랙* BE Developer
 ### 작업Log
 
 #### In VSQUARE
@@ -22,6 +20,11 @@
 - JAVA Spring
 - NestJS (현재 NestJS 를 기반으로 한 사이드 프로젝트를 진행중에 있습니다.)
 - Vue/React 
+
+### Other Info
+- 서툴지만 개발과정에서 겪은 여러 문제들을 남기기 위해 기술 블로그를 시작했습니다.
+  > https://dev.to/jangluna
+
 
 <!--
 **DevJYJ/DevJYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
