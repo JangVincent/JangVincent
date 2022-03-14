@@ -22,8 +22,7 @@
 - Vue/React 
 
 ### Tech Blog
-- 서툴지만 개발과정에서 겪은 여러 문제들을 남기기 위해 기술 블로그를 시작했습니다.
-  > https://dev.to/jangluna
+[JangLuna Dev.to](https://dev.to/jangluna)
 
 
 <!--
