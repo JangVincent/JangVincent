@@ -5,7 +5,7 @@
 - 🔭 사이드 프로젝트 팀 *사이드 트랙* BE Developer
 ### 작업Log
 
-#### In VSQUARE
+#### In VSQUARE (20.12.09 ~ 21.12.09)
 - 총신대학교(FE) : http://www.chongshin.ac.kr
 - 자생한방병원(FE) : https://jaseng.education
 - 한국여성인권진흥원(FE) : http://edu.stop.or.kr
