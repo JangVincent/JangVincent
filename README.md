@@ -1,7 +1,7 @@
 ## BE Developer 장영진 👋
 
 ### 이력
-- 🔭 (전) VSQUARE BE Developer (20.12.09 ~ 21.12.09)
+- 🔭 (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
 - 🔭 사이드 프로젝트 팀 *사이드 트랙* BE Developer
 ### 작업Log
 
