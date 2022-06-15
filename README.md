@@ -1,12 +1,13 @@
-## BE Developer 장영진 👋
+# BE Developer 장영진 👋
 
-### 이력
+## 🎓 이력
 - 🔭 (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
 - 🔭 (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
 - 🔭 사이드 프로젝트 팀 *사이드 트랙* BE Developer
-### 작업Log
 
-#### In VSQUARE (20.12.09 ~ 21.12.09)
+## 🎞 작업Log
+
+### In VSQUARE (20.12.09 ~ 21.12.09)
 - 총신대학교(FE) : http://www.chongshin.ac.kr
 - 자생한방병원(FE) : https://jaseng.education
 - 한국여성인권진흥원(FE) : http://edu.stop.or.kr
@@ -14,10 +15,10 @@
 - 어린이급식관리지원센터(BE) : https://eip.ccfsm.or.kr/
 - 어린이급식관리지원센터 식단관리서비스(BE) : https://menuplan.ccfsm.or.kr/
 
-#### In Side Project
+### In Side Project
 - SideTrack-VFLO(BE) : 진행중
 
-### Tech Stack
+## 🛠 Tech Stack
 ![HTML](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df12.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -47,7 +48,7 @@
 [JangLuna Dev.to](https://dev.to/jangluna)
 
 
-### ETC
+## 🚬 ETC
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangluna)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jangluna)](https://solved.ac/jangluna)
