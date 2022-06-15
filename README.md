@@ -64,8 +64,10 @@
 ### Tech Blog
 ![JangLuna's Dev.to](https://img.shields.io/badge/dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
 
-
+### GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangluna&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Baekjoon Tier
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangluna)](https://solved.ac/jangluna)
 
 ~~Old Github Account : @JangSol1484~~
