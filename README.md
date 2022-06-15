@@ -12,11 +12,11 @@
 
 ### In VSQUARE (20.12.09 ~ 21.12.09)
 - 총신대학교 : http://www.chongshin.ac.kr ![role-badge](https://img.shields.io/badge/Role-FE-red)
-- 자생한방병원(FE) : https://jaseng.education
-- 한국여성인권진흥원(FE) : http://edu.stop.or.kr
-- 정화예술대학교 메인페이지(FE/BE) : http://jb.ac.kr
-- 어린이급식관리지원센터(BE) : https://eip.ccfsm.or.kr/
-- 어린이급식관리지원센터 식단관리서비스(BE) : https://menuplan.ccfsm.or.kr/
+- 자생한방병원 : https://jaseng.education ![role-badge](https://img.shields.io/badge/Role-FE-red)
+- 한국여성인권진흥원 : http://edu.stop.or.kr ![role-badge](https://img.shields.io/badge/Role-FE-red)
+- 정화예술대학교 메인페이지 : http://jb.ac.kr ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet)
+- 어린이급식관리지원센터 : https://eip.ccfsm.or.kr/ ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+- 어린이급식관리지원센터 식단관리서비스 : https://menuplan.ccfsm.or.kr/ ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
 
 ### In Side Project
 - SideTrack-VFLO(BE) : 진행중
