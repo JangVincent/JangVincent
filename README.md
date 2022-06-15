@@ -47,6 +47,9 @@
 [JangLuna Dev.to](https://dev.to/jangluna)
 
 
+### ETC
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangluna)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **DevJYJ/DevJYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
