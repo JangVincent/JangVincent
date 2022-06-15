@@ -49,7 +49,7 @@
 
 **IDE & Assist programs**
 
-![VS Code](https://img.shields.io/badge/VisualStudioCode-FF6C37.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-FF6C37.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
