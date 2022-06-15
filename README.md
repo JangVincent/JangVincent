@@ -60,10 +60,13 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699.svg?&style=for-the-badge&logo=Obsidian&logoColor=white)
 
 
-## 🚬 ETC
+## 🚬 ETC INFO
 
 ### Tech Blog
 ![JangLuna's Dev.to](https://img.shields.io/badge/dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
+
+
+_OLD Github Account : @JangSol1484_
 
 <!--
 **DevJYJ/DevJYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
