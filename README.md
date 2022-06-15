@@ -63,7 +63,7 @@
 ## 🚬 ETC
 
 ### Tech Blog
-[JangLuna Dev.to](https://dev.to/jangluna)
+[JangLuna's Dev.to](https://img.shields.io/badge/dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
 
 <!--
 **DevJYJ/DevJYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
