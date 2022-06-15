@@ -1,6 +1,8 @@
 # BE Developer 장영진 
 ![Dev.to](https://img.shields.io/badge/JangLuna's%20dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
 ![Gmail](https://img.shields.io/badge/devmonarch0115@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jangluna)](https://solved.ac/jangluna)
 
 ## 🎓 이력
 - (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
