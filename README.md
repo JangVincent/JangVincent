@@ -1,5 +1,8 @@
 # BE Developer 장영진 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangluna)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jangluna)](https://solved.ac/jangluna)
+
 ## 🎓 이력
 - 🔭 (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
 - 🔭 (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
@@ -17,6 +20,7 @@
 
 ### In Side Project
 - SideTrack-VFLO(BE) : 진행중
+
 
 ## 🛠 Tech Stack
 ![HTML](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -44,14 +48,12 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699.svg?&style=for-the-badge&logo=Obsidian&logoColor=white)
-### Tech Blog
-[JangLuna Dev.to](https://dev.to/jangluna)
 
 
 ## 🚬 ETC
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangluna)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jangluna)](https://solved.ac/jangluna)
+### Tech Blog
+[JangLuna Dev.to](https://dev.to/jangluna)
 
 <!--
 **DevJYJ/DevJYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
