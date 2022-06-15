@@ -1,4 +1,4 @@
-# BE Developer 장영진 👋
+# BE Developer 장영진 ![gmail](https://img.shields.io/badge/devmonarch0115@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white) 👋
 
 ## 🎓 이력
 - (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
