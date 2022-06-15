@@ -11,7 +11,7 @@
 ## 🎞 작업Log
 
 ### In VSQUARE (20.12.09 ~ 21.12.09)
-- 총신대학교(FE) : http://www.chongshin.ac.kr
+- 총신대학교 : http://www.chongshin.ac.kr ![role-badge](https://img.shields.io/badge/Role-FE-red)
 - 자생한방병원(FE) : https://jaseng.education
 - 한국여성인권진흥원(FE) : http://edu.stop.or.kr
 - 정화예술대학교 메인페이지(FE/BE) : http://jb.ac.kr
