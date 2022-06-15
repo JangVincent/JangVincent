@@ -1,8 +1,5 @@
 # BE Developer 장영진 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangluna&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangluna)](https://solved.ac/jangluna)
-
 ## 🎓 이력
 - (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
 - (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
@@ -67,5 +64,8 @@
 ### Tech Blog
 ![JangLuna's Dev.to](https://img.shields.io/badge/dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangluna&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangluna)](https://solved.ac/jangluna)
 
 ~~Old Github Account : @JangSol1484~~
