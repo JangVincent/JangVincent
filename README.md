@@ -4,9 +4,10 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangluna)](https://solved.ac/jangluna)
 
 ## 🎓 이력
-- 🔭 (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
-- 🔭 (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
-- 🔭 사이드 프로젝트 팀 *사이드 트랙* BE Developer
+- (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
+- (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
+
+- 사이드 프로젝트 팀 *사이드 트랙* BE Developer
 
 ## 🎞 작업Log
 
@@ -66,19 +67,4 @@
 ![JangLuna's Dev.to](https://img.shields.io/badge/dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
 
 
-_OLD Github Account : @JangSol1484_
-
-<!--
-**DevJYJ/DevJYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~~Old Github Account : @JangSol1484~~
