@@ -53,7 +53,7 @@
 
 **IDEs & Assist programs**
 
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-FF6C37.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?&style=for-the-badge&logo=Neovim&logoColor=white)
 
