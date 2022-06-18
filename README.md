@@ -30,7 +30,7 @@
 
 
 ### In Side Project
-- ![Routainer](https://github.com/JangLuna/Routainer) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet) : 진행중
+- [Routainer](https://github.com/JangLuna/Routainer) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet) : 진행중
 - SideTrack-VFLO(BE) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue) : 잠정 중단
 
 ## 🛠 Tech Stack (Used at least once)
