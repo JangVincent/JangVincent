@@ -9,12 +9,25 @@
 ## 🎞 작업Log
 
 ### In VSQUARE (20.12.09 ~ 21.12.09)
-- 총신대학교 : http://www.chongshin.ac.kr ![role-badge](https://img.shields.io/badge/Role-FE-red)
-- 자생한방병원 : https://jaseng.education ![role-badge](https://img.shields.io/badge/Role-FE-red)
-- 한국여성인권진흥원 : http://edu.stop.or.kr ![role-badge](https://img.shields.io/badge/Role-FE-red)
-- 정화예술대학교 메인페이지 : http://jb.ac.kr ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet)
-- 어린이급식관리지원센터 : https://eip.ccfsm.or.kr/ ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
-- 어린이급식관리지원센터 식단관리서비스 : https://menuplan.ccfsm.or.kr/ ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+- **총신대학교** : http://www.chongshin.ac.kr ![role-badge](https://img.shields.io/badge/Role-FE-red)
+  - JavaScript, HTML5/CSS. 퍼블리싱 작업 및 프론트 연동
+
+- **자생한방병원** : https://jaseng.education ![role-badge](https://img.shields.io/badge/Role-FE-red)
+  - JavaScript, HTML5/CSS. 퍼블리싱 작업 및 프론트 연동
+  
+- **한국여성인권진흥원** : http://edu.stop.or.kr ![role-badge](https://img.shields.io/badge/Role-FE-red)
+  - JavaScript, HTML5/CSS. 퍼블리싱 작업 및 프론트 연동
+  - JavaScript 를 사용한 캐로셀 개발 및 애니메이션
+  
+- **정화예술대학교 메인페이지** : http://jb.ac.kr ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet)
+  - JavaScript, HTML5/CSS. 퍼블리싱 작업 및 프론트 연동
+  - 3rd party 라이브러리 연동
+  
+- **어린이급식관리지원센터** : https://eip.ccfsm.or.kr/ ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+- **어린이급식관리지원센터 식단관리서비스** : https://menuplan.ccfsm.or.kr/ ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+  - JavaScript, 퍼블리싱 작업 및 프론트 연동
+  - DB 설계 및 백엔드 로직 개발, API 설계 및 개발
+
 
 ### In Side Project
 - SideTrack-VFLO(BE) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue) : 잠정 중단
