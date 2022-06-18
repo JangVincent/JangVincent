@@ -2,11 +2,9 @@
 [![Dev.to](https://img.shields.io/badge/JangLuna's%20dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jangluna)
 [![Gmail](https://img.shields.io/badge/devmonarch0115@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:devmonarch0115@gmail.com)
 
-## 🎓 이력
+## 🎓 학력/이력
 - (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
 - (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
-
-- 사이드 프로젝트 팀 *사이드 트랙* BE Developer
 
 ## 🎞 작업Log
 
@@ -19,8 +17,8 @@
 - 어린이급식관리지원센터 식단관리서비스 : https://menuplan.ccfsm.or.kr/ ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
 
 ### In Side Project
-- SideTrack-VFLO(BE) : 진행중
-
+- SideTrack-VFLO(BE) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue) : 잠정 중단
+- Routainer ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet) : 진행중
 
 ## 🛠 Tech Stack (Used at least once)
 
@@ -68,7 +66,13 @@
 
 ## 🚬 ETC INFO
 
-### Used Language
+### Language
+TOEIC Score : 720 (2021)
+
+### Licence
+리눅스 마스터 2급 (2015)
+
+### Used Programming Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangluna&layout=compact)](https://github.com/jangluna/github-readme-stats)
 
 ### GitHub stats
