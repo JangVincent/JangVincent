@@ -1,6 +1,19 @@
-# BE Developer 장영진 
+# BE Developer JangLuna, 장영진 
+### 스스로만 빛나는 개발자 보다는 다른 이들의 빛과 함께 화합할 수 있는 개발자
+
+
 [![Dev.to](https://img.shields.io/badge/JangLuna's%20dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jangluna)
 [![Gmail](https://img.shields.io/badge/devmonarch0115@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:devmonarch0115@gmail.com)
+
+## Introduce
+1년 경력을 가진 주니어 개발자로, 에듀테크 사업을 하는 솔루션 기업에서 **DB 설계부터 사용자에게 다가가는 화면의 기능까지**   
+웹의 Back/Front 를 넘나들며 경험을 쌓았습니다. 
+
+주로 프론트단의 **연동업무**와 **CMS 시스템 개발**, **백엔드 로직, API 개발**을 담당했습니다.   
+중소기업이 예년 수익을 당해 2분기 만에 채우는 동안의 개발 역량을 맡아왔습니다.
+
+최근에는 **Node.js 를 기반으로 한 웹 Back/Front 기술**에 관심을 두고 있습니다.  
+뿐만 아니라 필요하다면 **새로운 언어나 프레임워크**에 대한 학습을 항상 염두에 두고 있습니다.
 
 ## 🎓 학력/이력
 - (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
