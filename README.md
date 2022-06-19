@@ -22,11 +22,15 @@
 
 ## 🎞 작업Log
 
-### In VSQUARE (20.12.09 ~ 21.12.09)
-
+<details>
+  <summary><h3>In VSQUARE (20.12.09 ~ 21.12.09)</h3></summary>
+  <div markdown="1">
+    
 |IDE|Groupware|CI/CD|Version Control|
 |----|----|----|----|
 |IntelliJ IDEA| Slack, Zeplin, FileZilla|Zenkins|Git
+
+#### 📜 진행 프로젝트, 업무 요약
 
 - [**총신대학교**](http://www.chongshin.ac.kr) ![role-badge](https://img.shields.io/badge/Role-FE-red)
   - JavaScript, HTML5/CSS. 퍼블리싱 작업 및 프론트 연동
@@ -70,6 +74,9 @@
   - 상품 카테고리 기능 개발
   - 상품 프리뷰 영상 플레이어 개발
   - PG사 결제모듈(이니시스) 연동
+  </div>
+</details>
+
 
 ### In Side Project
 - [Routainer](https://github.com/JangLuna/Routainer) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet) : 진행중
