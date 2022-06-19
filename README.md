@@ -34,7 +34,7 @@
 
 - [**자생한방병원**](https://jaseng.education) ![role-badge](https://img.shields.io/badge/Role-FE-red)
   - 퍼블리싱
-  - 내부 이메일 발송 로직 구현 ( Spring back-end )
+  - 내부 이메일 발송 로직 구현
   - 내부 LMS 수료증 PDF 파일 구현
   - 유료강의 쿠폰 기능 DB 설계, SQL 구현, API 설계 및 구현, 프론트 연동.
   
