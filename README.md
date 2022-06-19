@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/devmonarch0115@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:devmonarch0115@gmail.com)
 [![phone](https://img.shields.io/badge/📱-010%207472%200453-blue?style=for-the-badge)](tel:01074720453)
 
-## Introduce
+## ✨ Introduce
 1년 경력을 가진 주니어 개발자로, 에듀테크 사업을 하는 솔루션 기업에서 **DB 설계부터 사용자에게 다가가는 화면의 기능까지**   
 웹의 Back/Front 를 넘나들며 경험을 쌓았습니다. 
 
@@ -23,25 +23,53 @@
 ## 🎞 작업Log
 
 ### In VSQUARE (20.12.09 ~ 21.12.09)
+
+|IDE|Groupware|CI/CD|Version Control|
+|----|----|----|----|
+|IntelliJ IDEA| Slack, Zeplin, FileZilla|Zenkins|Git
+
 - [**총신대학교**](http://www.chongshin.ac.kr) ![role-badge](https://img.shields.io/badge/Role-FE-red)
   - JavaScript, HTML5/CSS. 퍼블리싱 작업 및 프론트 연동
+  - 백오피스 연동 (학생 조회, 증명서 출력, 기타 기존 시스템과의 마이그레이션 작업)
 
 - [**자생한방병원**](https://jaseng.education) ![role-badge](https://img.shields.io/badge/Role-FE-red)
-  - JavaScript, HTML5/CSS. 퍼블리싱 작업 및 프론트 연동
+  - 퍼블리싱
+  - 내부 이메일 발송 로직 구현 ( Spring back-end )
+  - 내부 LMS 수료증 PDF 파일 구현
+  - 유료강의 쿠폰 기능 DB 설계, SQL 구현, API 설계 및 구현, 프론트 연동.
   
 - [**한국여성인권진흥원**](http://edu.stop.or.kr) ![role-badge](https://img.shields.io/badge/Role-FE-red)
-  - JavaScript, HTML5/CSS. 퍼블리싱 작업 및 프론트 연동
-  - JavaScript 를 사용한 캐로셀 개발 및 애니메이션
+  - 퍼블리싱
+  - 메뉴 및 데이터 연동
+  - 회원가입/로그인 구현
+  - JavaScript 를 사용한 캐로셀 개발 및 애니메이션 구현
+  - 회원가입 부터 강의 시청, 완료 까지 플로우의 프론트 비즈니스 로직 개발
   
-- [**정화예술대학교 메인페이지**](http://jb.ac.kr) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet)
-  - JavaScript, HTML5/CSS. 퍼블리싱 작업 및 프론트 연동
-  - 3rd party 라이브러리 연동
+- [**정화예술대학교 메인페이지 및 학사정보시스템**](http://jb.ac.kr) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet)
+  - 메인 페이지 컨텐츠 연동
+  - 내부 CMS 페이지 3rd party 라이브러리 연동 (Chart.js)
+  - 내부 CMS 페이지 전반적인 데이터 연동
+  - 내부 CMS 페이지 DB 설계 및 SQL 개발 (학생 상담 기능)
+  - 내부 CMS 페이지 API 개발 (학생 상담 기능)
+  - 전반적인 백오피스 및 메인페이지 유지보수
   
 - [**어린이급식관리지원센터**](https://eip.ccfsm.or.kr/) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
 - [**어린이급식관리지원센터 식단관리서비스**](https://menuplan.ccfsm.or.kr/) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
-  - JavaScript, 퍼블리싱 작업 및 프론트 연동
-  - DB 설계 및 백엔드 로직 개발, API 설계 및 개발
-
+  - CMS 페이지 퍼블리싱 작업 및 프론트 연동
+  - 식단표 편집기능 구현
+  - 식단표, 레시피, 음식, 영양소 백엔드 로직 개발
+  - 관련 기능 API 설계 및 SQL 개발
+  - 식단표 작성 화면 연동 및 로직 개발
+  - 식단표, 영양소 통계 Excel file export 로직 개발
+  - 기타 비즈니스 로직 구현 (LMS)
+  - 시스템 유지보수
+  
+- **Project Cygnus** - Spring, Mybatis / jQuery, VaniliaJS 이용한 E-commerce 솔루션
+  - 회원정보 DB 설계 및 SQL 구현 
+  - 상품 DB 설계 및 관련 CRUD 기능 개발
+  - 상품 카테고리 기능 개발
+  - 상품 프리뷰 영상 플레이어 개발
+  - PG사 결제모듈(이니시스) 연동
 
 ### In Side Project
 - [Routainer](https://github.com/JangLuna/Routainer) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet) : 진행중
