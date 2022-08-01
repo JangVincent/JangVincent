@@ -139,8 +139,4 @@ TOEIC Score : 720 (2021)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangluna&theme=great-gatsby&show_icons=true)](https://github.com/jangluna/github-readme-stats)
 
-### Baekjoon Tier
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangluna)](https://solved.ac/jangluna)
-
 ~~Old Github Account : @JangSol1484~~
