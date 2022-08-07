@@ -133,10 +133,10 @@ TOEIC Score : 720 (2021)
 
 ### Used Programming Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangluna&layout=compact)](https://github.com/jangluna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangluna&layout=compact)](https://github.com/Phantola/github-readme-stats)
 
 ### GitHub stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangluna&theme=great-gatsby&show_icons=true)](https://github.com/jangluna/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantola&theme=great-gatsby&show_icons=true)](https://github.com/Phantola/github-readme-stats)
 
 ~~Old Github Account : @JangSol1484~~
