@@ -133,7 +133,7 @@ TOEIC Score : 720 (2021)
 
 ### Used Programming Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangluna&layout=compact)](https://github.com/Phantola/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantola&layout=compact)](https://github.com/Phantola/github-readme-stats)
 
 ### GitHub stats
 
