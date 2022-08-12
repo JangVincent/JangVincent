@@ -21,6 +21,7 @@ Node.js 를 기반으로 둔 생태계에 관심이 있으며 NestJS-TypeORM 스
 
 - (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
 - (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
+- (현) Catze-Labs Software Engineer (22.08.01 ~ )
 
 ## 🎞 작업Log
 
