@@ -79,7 +79,7 @@ Node.js 를 기반으로 둔 생태계에 관심이 있으며 NestJS-TypeORM 스
 
 ### In Side Project
 
-- [HOOPs](https://hoops.janglunalab.com/) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet) : 진행중
+- [HOOPs](https://hoops.janglunalab.com/) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet) : 잠정중단
 - SideTrack-VFLO ![role-badge](https://img.shields.io/badge/Role-BE-skyblue) : 잠정 중단
 
 ## 🛠 Tech Stack (Used at least once)
