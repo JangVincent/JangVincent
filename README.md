@@ -16,7 +16,7 @@
 
 - (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
 - (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
-- (현) Catze-Labs Software Engineer (22.08.01 ~ )
+- (현) Catze-Labs BE Developer (22.08.01 ~ )
 
 ## 🎞 작업Log
 
