@@ -91,7 +91,7 @@
     - Web3 Indexer 를 이용한 비즈니스 로직 개발
     - 각종 기능의 Table 설계 및 비즈니스 로직, API 엔드포인트 개발
 
-  - [**Alice-bot**]() (WIP) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
+  - **Alice-bot** (WIP) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
     - Web3 커뮤니티 CyberGalz의 디스코드 봇
     - Virtual Currency 를 이용한 디스코드 서버 내 경제 시스템을 구현
     - Table 설계, 비즈니스 로직 및 API Endpoint 구현
