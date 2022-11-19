@@ -98,7 +98,7 @@
     - 트위터 API 이용한 필터 기능 개발
     - 타 프로덕트와 Virtual Currency 연동
 
-  - [**KUP**](https://github.com/catze-labs/KUP) (WIP) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
+  - [**KUP**](https://kup.vercel.app) (WIP) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
     - DoraHacks 에서 주관한 KlayMakers22 출품작
     - NFT & Metaverse 부문 1위
     
