@@ -4,7 +4,6 @@
 
 [![Dev.to](https://img.shields.io/badge/Phantola's%20dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/phantolajang)
 [![Gmail](https://img.shields.io/badge/devmonarch0115@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:phantoladev@gmail.com)
-[![phone](https://img.shields.io/badge/📱-010%207472%200453-blue?style=for-the-badge)](tel:01074720453)
 
 ## ✨ Introduce
 
@@ -108,8 +107,8 @@
 
 ### In Side Project
 
-- [HOOPs](https://hoops.janglunalab.com/) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet) : 잠정중단
-- SideTrack-VFLO ![role-badge](https://img.shields.io/badge/Role-BE-skyblue) : 잠정 중단
+- [HOOPs](https://hoops.janglunalab.com/) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet) : 중단
+- SideTrack-VFLO ![role-badge](https://img.shields.io/badge/Role-BE-skyblue) : 중단
 
 ## 🛠 Tech Stack (Used at least once)
 
