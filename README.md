@@ -3,7 +3,7 @@
 > 스스로만 빛나는 개발자 보다는 달 처럼 다른 이들의 빛과 함께 화합할 수 있는 개발자
 
 [![Dev.to](https://img.shields.io/badge/Phantola's%20dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/phantolajang)
-[![Gmail](https://img.shields.io/badge/devmonarch0115@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:devmonarch0115@gmail.com)
+[![Gmail](https://img.shields.io/badge/devmonarch0115@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:phantoladev@gmail.com)
 [![phone](https://img.shields.io/badge/📱-010%207472%200453-blue?style=for-the-badge)](tel:01074720453)
 
 ## ✨ Introduce
