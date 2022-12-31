@@ -1,4 +1,4 @@
-# BE Developer Phantola, 장영진
+# BE Developer Phantola
 
 > 스스로만 빛나는 개발자 보다는 달 처럼 다른 이들의 빛과 함께 화합할 수 있는 개발자
 
