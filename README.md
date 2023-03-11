@@ -97,9 +97,22 @@
     - 트위터 API 이용한 필터 기능 개발
     - 타 프로덕트와 Virtual Currency 연동
 
-  - [**KUP**](https://kup.vercel.app) (WIP) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
+  - [**KUP**](https://kup.vercel.app) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
     - DoraHacks 에서 주관한 KlayMakers22 출품작
     - NFT & Metaverse 부문 1위
+    - 기획 참여
+    
+  - [**R3plica**](https://r3plica-web.vercel.app) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
+    - BNB Chain innovation Hackathon (BNB Chain) / Coinbase Buidle The Future (XDC Chain) 출품작
+    - BNB Hackathon Track #1: The Road towards Decentralized Society 2위
+    - Coinbase Buidle The Future Track - Open Ideas 1위
+    - BE 전체 참여 (Table 설계, 비즈니스 로직, API 엔드포인트, Indexer 등)
+    
+  - [**Aptoplay**](https://aptoplay-web.vercel.app/) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+    - Aptos Seoul Hack 2023 Gaming Track 1위
+    - BE 전체 참여(Table 설계, 비즈니스 로직, API 엔드포인트 등)
+    - [**Aptoplay-core**](https://www.npmjs.com/package/aptoplay-core) 라이브러리 개발
+    
     
   </div>
   
