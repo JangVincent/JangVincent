@@ -16,6 +16,10 @@
 - (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
 - (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
 - (현) Catze-Labs BE Developer (22.08.01 ~ )
+  - KlayMakers22 해커톤 1위
+  - BNB Hackathon Track #1: The Road towards Decentralized Society 2위
+  - Coinbase Buidle The Future Track - Open Ideas 1위
+  - Aptos Seoul Hack 2023 Gaming Track 1위 
 
 ## 🎞 작업Log
 
@@ -89,6 +93,7 @@
     - NFT를 기반으로한 P2E 게임 플랫폼
     - Web3 Indexer 를 이용한 비즈니스 로직 개발
     - 각종 기능의 Table 설계 및 비즈니스 로직, API 엔드포인트 개발
+    - Google OAuth 연동
 
   - **Alice-bot** (WIP) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
     - Web3 커뮤니티 CyberGalz의 디스코드 봇
