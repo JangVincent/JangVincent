@@ -89,20 +89,20 @@
 
   #### 📜 진행 프로젝트, 업무 요약
 
-  - [**Yooldo**](https://yooldo.gg) (WIP) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
+  - [**Yooldo**](https://yooldo.gg) (CBT 2nd Done) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
     - NFT를 기반으로한 P2E 게임 플랫폼
     - Web3 Indexer 를 이용한 비즈니스 로직 개발
     - 각종 기능의 Table 설계 및 비즈니스 로직, API 엔드포인트 개발
     - Google OAuth 연동
 
-  - **Alice-bot** (WIP) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
+  - **Alice-bot** (일시 중단) ![role-badge](https://img.shields.io/badge/Role-BE/Dev-blue)  
     - Web3 커뮤니티 CyberGalz의 디스코드 봇
     - Virtual Currency 를 이용한 디스코드 서버 내 경제 시스템을 구현
     - Table 설계, 비즈니스 로직 및 API Endpoint 구현
     - 트위터 API 이용한 필터 기능 개발
     - 타 프로덕트와 Virtual Currency 연동
 
-  - [**KUP**](https://kup.vercel.app) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
+  - [**KUP**](https://kup.vercel.app) ![role-badge](https://img.shields.io/badge/Role-STAFF-black)  
     - DoraHacks 에서 주관한 KlayMakers22 출품작
     - NFT & Metaverse 부문 1위
     - 기획 참여
