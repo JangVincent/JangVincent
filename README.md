@@ -186,4 +186,4 @@ TOEIC Score : 720 (2021)
 
 ### GitHub stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantola&theme=great-gatsby&show_icons=true)](https://github.com/Phantola/github-readme-stats)
+[![Phantola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantola&show_icons=true&theme=dark)](https://github.com/Phantola/github-readme-stats)
