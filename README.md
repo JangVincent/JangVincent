@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/phantoladev@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:phantoladev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/phantola-0E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/phantola/)
 
-## ✨ Introduce
+## ✨ Introduction
 
 3년차에 접어든 주니어 개발자입니다.  
 현재 Web3 기업에서 백엔드 개발자로 성장하고 있습니다.  
@@ -36,7 +36,7 @@
   |----|----|----|----|
   |IntelliJ IDEA| Slack, Zeplin, FileZilla|Zenkins|Git
 
-  #### 📜 진행 프로젝트, 업무 요약
+  #### 📜 Projects summary
 
   - [**총신대학교**](http://www.chongshin.ac.kr) ![role-badge](https://img.shields.io/badge/Role-FE-red)
 
@@ -88,7 +88,7 @@
   |----|----|----|----|
   |VS Code| Slack, Figma, Notion|Github Action, EKS, etc..|Git
 
-  #### 📜 진행 프로젝트, 업무 요약
+  #### 📜 Projects summary
 
   - [**Yooldo**](https://yooldo.gg) (CBT 2nd Done) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
     - NFT를 기반으로한 P2E 게임 플랫폼
