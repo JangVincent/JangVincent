@@ -12,7 +12,7 @@
 현재 Web3 기업에서 백엔드 개발자로 성장하고 있습니다.  
 목적에따라 **새로운 언어나 프레임워크**에 대한 학습에 대해 항상 열린 생각을 가지고 있습니다.  
 
-## 🎓 학력/이력
+## 🎓 Education/Experiences
 
 - (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
 - (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
@@ -22,7 +22,7 @@
   - Coinbase Buidle The Future Track - Open Ideas 1위
   - Aptos Seoul Hack 2023 Gaming Track 1위 
 
-## 🎞 작업Log
+## 🎞 Experience Details
 
 <details>
   <summary><h3>VSQUARE (20.12.09 ~ 21.12.09)</h3></summary>
@@ -123,11 +123,6 @@
   </div>
   
 </details>
-
-### In Side Project
-
-- [HOOPs](https://hoops.janglunalab.com/) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet) : 중단
-- SideTrack-VFLO ![role-badge](https://img.shields.io/badge/Role-BE-skyblue) : 중단
 
 ## 🛠 Common Tech Stack (Mostly Use)
 
