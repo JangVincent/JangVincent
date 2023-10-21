@@ -129,20 +129,45 @@
 - [HOOPs](https://hoops.janglunalab.com/) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet) : 중단
 - SideTrack-VFLO ![role-badge](https://img.shields.io/badge/Role-BE-skyblue) : 중단
 
-## 🛠 Tech Stack (Used at least once)
+## 🛠 Common Tech Stack (Mostly Use)
 
 **Languages**  
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df12.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
-![HTML](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+
+**Frameworks & Library**   
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
+
+**Database**  
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
+
+**IDE & Assist programs**  
+
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?&style=for-the-badge&logo=Neovim&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?&style=for-the-badge&logo=Insomnia&logoColor=white)
+
+
+## 🛠 Other Tech Stack (Used at least once)
+
+**Languages**  
+
 ![Java](https://img.shields.io/badge/Java-00736.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 **Frameworks & Library**  
 
 ![Fastify](https://img.shields.io/badge/Fastify-000000.svg?&style=for-the-badge&logo=Fastify&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
@@ -152,23 +177,11 @@
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
 
 **IDEs & Assist programs**
 
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?&style=for-the-badge&logo=Neovim&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?&style=for-the-badge&logo=Insomnia&logoColor=white)
 
 ## 🚬 ETC INFO
 
