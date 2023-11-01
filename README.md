@@ -90,7 +90,7 @@
 
   #### 📜 Projects summary
 
-  - [**Yooldo**](https://yooldo.gg) (CBT 2nd Done) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
+  - [**Yooldo**](https://app.yooldo.gg) (CBT 2nd Done) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
     - NFT를 기반으로한 P2E 게임 플랫폼
     - Web3 Indexer 를 이용한 비즈니스 로직 개발
     - 각종 기능의 Table 설계 및 비즈니스 로직, API 엔드포인트 개발
