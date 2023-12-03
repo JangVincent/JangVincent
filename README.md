@@ -95,6 +95,8 @@
     - Web3 Indexer 를 이용한 비즈니스 로직 개발
     - 각종 기능의 Table 설계 및 비즈니스 로직, API 엔드포인트 개발
     - Google OAuth 연동
+    - 온체인 토큰 (ERC-20) 과 게임 VC 로의 양방향 비즈니스 로직 설계 및 개발
+    - 게임 어뷰징에 대한 재판 시스템 개발 및 리팩토링
 
   - **Alice-bot** (일시 중단) ![role-badge](https://img.shields.io/badge/Role-BE/Dev-blue)  
     - Web3 커뮤니티 CyberGalz의 디스코드 봇
