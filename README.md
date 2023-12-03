@@ -9,18 +9,36 @@
 ## ✨ Introduction
 
 3년차에 접어든 주니어 백엔드 개발자입니다.  
-현재 Web3 기업에서 백엔드 개발자로 성장하고 있습니다.  
+현재 Web3 기업에서 백엔드 개발자를 맡고 있습니다.  
 목적에따라 **새로운 언어나 프레임워크**에 대한 학습에 대해 항상 열린 생각을 가지고 있습니다.  
 
 ## 🎓 Education/Experiences
 
+### Education
 - (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
+
+### Experience
 - (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
 - (현) Catze-Labs BE Developer (22.08.01 ~ )
   - KlayMakers22 해커톤 1위
   - BNB Hackathon Track #1: The Road towards Decentralized Society 2위
   - Coinbase Buidle The Future Track - Open Ideas 1위
   - Aptos Seoul Hack 2023 Gaming Track 1위 
+
+### Side project
+- [**Timespace**](https://github.com/Phantola/TimeSpace) (22.12.03 ~ 23.04.29)
+  - VS Code 의 하단 바에 현재 시간과 UTC 시간을 같이 보여주는 확장 프로그램 
+  - Todo List / Alarm 기능
+
+- MaMoodJazz (23.11.13 ~)
+  - 재즈 앨범 및 트랙 추천 서비스
+  - BE 전체 구축
+  - *Lambda 를 이용한 AI 추천 로직 개발 예정*
+
+- [**txview**](https://github.com/Phantola/txview) (23.11.24 ~ )
+  - 트랜잭션 조회 서비스
+  - `Rust` 를 이용한 CLI tool
+  - `Homebrew` 를 이용한 패키지 배포
 
 ## 🎞 Experience Details
 
@@ -93,12 +111,12 @@
   - [**Yooldo**](https://app.yooldo.gg) (CBT 2nd Done) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
     - NFT를 기반으로한 P2E 게임 플랫폼
     - Web3 Indexer 를 이용한 비즈니스 로직 개발
-    - 각종 기능의 Table 설계 및 비즈니스 로직, API 엔드포인트 개발
+    - BE 전체 구축
     - Google OAuth 연동
     - 온체인 토큰 (ERC-20) 과 게임 VC 로의 양방향 비즈니스 로직 설계 및 개발
     - 게임 어뷰징에 대한 재판 시스템 개발 및 리팩토링
 
-  - **Alice-bot** (일시 중단) ![role-badge](https://img.shields.io/badge/Role-BE/Dev-blue)  
+  - **Alice-bot** (개발 중단) ![role-badge](https://img.shields.io/badge/Role-BE/Dev-blue)  
     - Web3 커뮤니티 CyberGalz의 디스코드 봇
     - Virtual Currency 를 이용한 디스코드 서버 내 경제 시스템을 구현
     - Table 설계, 비즈니스 로직 및 API Endpoint 구현
@@ -111,16 +129,33 @@
     - 기획 참여
     
   - [**R3plica**](https://r3plica-web.vercel.app) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
-    - BNB Chain innovation Hackathon (BNB Chain) / Coinbase Buidle The Future (XDC Chain) 출품작
+    - **BNB Chain innovation Hackathon (BNB Chain) / Coinbase Buidle The Future (XDC Chain)** 출품작
     - BNB Hackathon Track #1: The Road towards Decentralized Society 2위
     - Coinbase Buidle The Future Track - Open Ideas 1위
     - BE 전체 참여 (Table 설계, 비즈니스 로직, API 엔드포인트, Indexer 등)
     
   - [**Aptoplay**](https://aptoplay-web.vercel.app/) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
     - Aptos Seoul Hack 2023 Gaming Track 1위
-    - BE 전체 참여(Table 설계, 비즈니스 로직, API 엔드포인트 등)
-    - [**Aptoplay-core**](https://www.npmjs.com/package/aptoplay-core) 라이브러리 개발
-    
+    - BE 전체 개발
+    - [**Aptoplay-core**](https://www.npmjs.com/package/aptoplay-core) 라이브러리 전체 개발
+
+  - **Trouble punk Game Server** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+    - P2E Game `Trouble-punk : Cybergalz` 의 게임서버
+    - Firebase 이용
+    - BE 전체 구축
+    - 리그 설계 및 보상정산 개발
+
+  - **Autosang Server** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+    - 전략 기반 자동매매 시스템
+    - BE 초기 세팅 및 피드백
+
+  - **Catze Backoffice** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+    - 사내 백오피스 시스템
+    - BE 전체 구축
+    - Github PR Auto Merge 기능 개발
+    - 각 프로덕트 별 관리 기능 개발
+    - Google OAuth 연동
+    - Slack OTP 기능 개발
     
   </div>
   
@@ -161,6 +196,7 @@
 **Languages**  
 
 ![Java](https://img.shields.io/badge/Java-00736.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white)
 
 **Frameworks & Library**  
 
@@ -175,6 +211,7 @@
 **Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 
 **IDEs & Assist programs**
 
