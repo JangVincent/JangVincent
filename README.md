@@ -43,7 +43,7 @@
 ## 🎞 Experience Details
 
 <details>
-  <summary><h3>VSQUARE (20.12.09 ~ 21.12.09)</h3></summary>
+  <summary>VSQUARE (20.12.09 ~ 21.12.09)</summary>
   <div markdown="1">
   
   프론트단의 **연동업무**와 **CMS 시스템 개발**, **백엔드 로직, API 개발**을 담당했습니다.  
@@ -99,7 +99,7 @@
 </details>
   
 <details>
-  <summary><h3>Catze Labs (22.08.01 ~ )</h3></summary>
+  <summary>Catze Labs (22.08.01 ~ )</summary>
   <div markdown="1">
       
   |IDE|Groupware|CI/CD|Version Control|
