@@ -30,11 +30,6 @@
   - VS Code 의 하단 바에 현재 시간과 UTC 시간을 같이 보여주는 확장 프로그램 
   - Todo List / Alarm 기능
 
-- MaMoodJazz (23.11.13 ~)
-  - 재즈 앨범 및 트랙 추천 서비스
-  - BE 전체 구축
-  - *Lambda 를 이용한 AI 추천 로직 개발 예정*
-
 - [**txview**](https://github.com/Phantola/txview) (23.11.24 ~ )
   - 트랜잭션 조회 서비스
   - `Rust` 를 이용한 CLI tool
