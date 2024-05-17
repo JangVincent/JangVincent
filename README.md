@@ -140,7 +140,7 @@
     - BE 전체 구축
     - 리그 설계 및 보상정산 개발
 
-  - **Autosang Server** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+  - **Autosang Server (Deprecated)** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
     - 전략 기반 자동매매 시스템
     - BE 초기 세팅 및 피드백
 
@@ -151,6 +151,11 @@
     - 각 프로덕트 별 관리 기능 개발
     - Google OAuth 연동
     - Slack OTP 기능 개발
+
+  - **Catze Nest Logger** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+    - 사내 모니터링용 NestJS 로거 라이브러리
+    - 데코레이터를 통한 자동 로거 인젝션 및 메소드 추적
+    - 기존에 존재하지 않았던 로깅 시스템을 시작하는 계기
     
   </div>
   
