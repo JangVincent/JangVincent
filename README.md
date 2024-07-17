@@ -99,7 +99,7 @@
       
   |IDE|Groupware|CI/CD|Version Control|
   |----|----|----|----|
-  |VS Code| Slack, Figma, Notion|Github Action, EKS, etc..|Git
+  |VS Code| Slack, Figma, Notion|Github Action, EKS, GCP, Kubernates, etc..|Git
 
   #### 📜 Projects summary
 
