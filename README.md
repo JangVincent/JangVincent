@@ -151,6 +151,7 @@
     - 각 프로덕트 별 관리 기능 개발
     - Google OAuth 연동
     - Slack OTP 기능 개발
+    - Google Authenticator QR code 를 통한 OTP 기능 개발
 
   - **Catze Nest Logger** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
     - 사내 모니터링용 NestJS 로거 라이브러리
