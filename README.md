@@ -107,7 +107,7 @@ Web3 기업에서 백엔드 개발자를 맡고 있습니다.
 
   #### 📜 Projects summary
 
-  - [**Yooldo**](https://app.yooldo.gg) (CBT 2nd Done) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
+  - [**Yooldo**](https://app.yooldo.gg) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
     - NFT를 기반으로한 P2E 게임 플랫폼
     - Web3 Indexer 를 이용한 비즈니스 로직 개발
     - BE 전체 구축
