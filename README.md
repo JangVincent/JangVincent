@@ -107,7 +107,12 @@ Web3 기업에서 백엔드 개발자를 맡고 있습니다.
 
   #### 📜 Projects summary
 
-  - [**Yooldo**](https://app.yooldo.gg) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)  
+  - [**Yooldo**](https://app.yooldo.gg) ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+
+    모든 백엔드 개발을 맡았습니다. 해외 개발자들 및 관계사들과 함께 이벤트를 기획, 개발, 배포, 운영해 온 노하우가 있습니다.  
+    플랫폼 특성 상 가상자산을 인게임 재화로 환금하는 서비스를 개발하였습니다. 기존 배치 프로세스로 처리해오던 것을 실시간 처리로 전환하는 경험을 했습니다.
+    약 90만명에 이르는 유저를 보유하고 있는 서비스입니다.
+    
     - NFT를 기반으로한 P2E 게임 플랫폼
     - Web3 Indexer 를 이용한 비즈니스 로직 개발
     - BE 전체 구축
@@ -140,7 +145,7 @@ Web3 기업에서 백엔드 개발자를 맡고 있습니다.
 
   - **Trouble punk Game Server** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
     - P2E Game `Trouble-punk : Cybergalz` 의 게임서버
-    - Firebase 이용
+    - Firebase Firestore 이용
     - BE 전체 구축
     - 리그 설계 및 보상정산 개발
 
@@ -155,14 +160,15 @@ Web3 기업에서 백엔드 개발자를 맡고 있습니다.
     - 각 프로덕트 별 관리 기능 개발
     - Google OAuth 연동
     - Slack OTP 기능 개발
-    - Google Authenticator QR code 를 통한 2FA 기능 개발
+    - QR code 를 통한 2FA 기능 개발
 
   - **Catze Nest Logger** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
-    - 사내 모니터링용 NestJS 로거 라이브러리
+    - 사내 모니터링용 NestJS Logger 라이브러리
     - 데코레이터를 통한 자동 로거 인젝션 및 메소드 추적
     - 기존에 사내에 존재하지 않았던 로깅 시스템을 시작하는 계기
    
   - **Catze Nest Crypto** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+    - 양방향 암호화 라이브러리
     - 전자봉투 암호화를 구현한 사내 NestJS Library
     - 데코레이터를 통한 Request, Repsonse parsing
     
