@@ -151,12 +151,12 @@ Web3 기업에서 백엔드 개발자를 맡고 있습니다.
     - 각 프로덕트 별 관리 기능 개발
     - Google OAuth 연동
     - Slack OTP 기능 개발
-    - Google Authenticator QR code 를 통한 OTP 기능 개발
+    - Google Authenticator QR code 를 통한 2FA 기능 개발
 
   - **Catze Nest Logger** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
     - 사내 모니터링용 NestJS 로거 라이브러리
     - 데코레이터를 통한 자동 로거 인젝션 및 메소드 추적
-    - 기존에 존재하지 않았던 로깅 시스템을 시작하는 계기
+    - 기존에 사내에 존재하지 않았던 로깅 시스템을 시작하는 계기
    
   - **Catze Nest Crypto** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
     - 전자봉투 암호화를 구현한 사내 NestJS Library
