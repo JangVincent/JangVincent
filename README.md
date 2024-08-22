@@ -112,7 +112,7 @@ Web3 기업에서 백엔드 개발자를 맡고 있습니다.
     - Web3 Indexer 를 이용한 비즈니스 로직 개발
     - BE 전체 구축
     - Google OAuth 연동
-    - 온체인 토큰 (ERC-20) 과 게임 VC 로의 양방향 비즈니스 로직 설계 및 개발
+    - 온체인 토큰 (ERC-20) 과 게임 VC(Virtual Currency) 로의 양방향 비즈니스 로직 설계 및 개발
     - 게임 어뷰징에 대한 재판 시스템 개발 및 리팩토링
 
   - **Alice-bot** (개발 중단) ![role-badge](https://img.shields.io/badge/Role-BE/Dev-blue)  
