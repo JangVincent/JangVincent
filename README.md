@@ -110,8 +110,8 @@ Web3 기업에서 백엔드 개발자를 맡고 있습니다.
   이런 경험과 프로덕트 개발을 통해 4개의 web3 해커톤에서 괄목 할 만한 [결과를](https://www.eblockmedia.com/news/articleView.html?idxno=820) 도출해내었으며,
   회사의 Consensys사 투자 유치를 이루어 냈습니다.
 
-  해커톤 수상 이력  
-    - `KlayMakers22 해커톤 1위`
+  **해커톤 수상 이력**  
+    - `KlayMakers22 해커톤 1위`  
     - `BNB Hackathon Track #1: The Road towards Decentralized Society 2위`  
     - `Coinbase Buidle The Future Track - Open Ideas 1위`  
     - `Aptos Seoul Hack 2023 Gaming Track 1위`   
