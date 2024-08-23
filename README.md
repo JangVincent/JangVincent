@@ -111,7 +111,9 @@ Web3 기업에서 백엔드 개발자를 맡고 있습니다.
   보안성이 중시되므로 양방향 암호화 적용 및 `Slack`, QR code를 통한 OTP 및 2FA 기능을 개발하였으며
   서버 간 통신에 부분적으로 `gRPC` 를 적용하여 오버헤드를 줄인 경험이 있습니다.
 
-  이런 경험과 프로덕트 개발을 통해 Consensys 투자 유치를 이끌어냈습니다.
+  이런 경험과 프로덕트 개발을 통해 4개의 web3 해커톤에서 괄목 할 만한 [결과를](https://www.eblockmedia.com/news/articleView.html?idxno=820) 도출해내었으며,
+  회사의 Consensys 투자 유치를 이루어 냈습니다.
+  
       
   |IDE|Groupware|CI/CD|Version Control|
   |----|----|----|----|
