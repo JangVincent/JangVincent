@@ -5,6 +5,7 @@
 [![Dev.to](https://img.shields.io/badge/Phantola's%20dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/phantolajang)
 [![Gmail](https://img.shields.io/badge/phantoladev@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:phantoladev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/phantola-0E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/phantola/)
+[![X](https://img.shields.io/badge/phantola-0A0A0A.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/phantola_dev)
 
 ## ✨ Introduction
 
