@@ -22,15 +22,11 @@ Web3 기업에서 백엔드 개발자를 맡고 있습니다.
 ### Education
 - (졸) 서울과학기술대학교 컴퓨터공학과 졸업(14.2 ~ 21.2)
 
-### Experience
+### Working Experiences
 - (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
 - (현) Catze-Labs BE Developer (22.08.01 ~ )
-  - KlayMakers22 해커톤 1위
-  - BNB Hackathon Track #1: The Road towards Decentralized Society 2위
-  - Coinbase Buidle The Future Track - Open Ideas 1위
-  - Aptos Seoul Hack 2023 Gaming Track 1위  
 
-### Side project
+### Personal Side project
 - [**Timespace**](https://github.com/Phantola/TimeSpace) (22.12.03 ~ 23.04.29)
   - VS Code 의 하단 바에 현재 시간과 UTC 시간을 같이 보여주는 확장 프로그램 
   - Todo List / Alarm 기능
@@ -102,17 +98,23 @@ Web3 기업에서 백엔드 개발자를 맡고 있습니다.
   <summary><h3>Catze Labs (22.08.01 ~ )<h3></summary>
   <div markdown="1">
 
-  사내 모든 서비스의 백엔드 개발을 홀로 맡았습니다. 해외 개발자들 및 관계사들과 함께 이벤트를 기획, 개발, 배포, 운영해 온 노하우가 있습니다.
-  플랫폼 특성 상 가상자산을 인게임 재화로 환금하는 서비스를 개발하였습니다. 기존 배치 프로세스로 처리해오던 것을 실시간 처리로 전환하는 경험을 했습니다.  
-  약 80만명에 이르는 유저를 보유하고 있는 서비스입니다.
-  입사 초기부터 현재까지 유지보수 및 개발을 진행중이며, 특히나 기존에 존재하던 기술부채를 해소해 왔습니다.
+  입사 초기부터 현재까지 플랫폼/솔루션 아키텍처 유지보수 및 개발을 진행중입니다.
+  해외 개발자들 및 관계사들과 함께 이벤트를 기획, 개발, 배포, 운영, 긴급대응을 해 온 노하우가 있습니다.
+  가상자산을 인게임 재화로 상호 환금하는 서비스를 개발하였습니다.  
+  기존에 수 많은 배치 프로세스로 처리해오던 것을 실시간 처리로 전환하는 작업을 비롯, 많은 기술 부채를 해소해 왔습니다.
 
   아래에 서술 프로덕트들을 한 눈에 보고 관리 할 수 있는 통합 백오피스의 서버 개발을 맡았습니다.
   보안성이 중시되므로 양방향 암호화 적용 및 `Slack`, QR code를 통한 OTP 및 2FA 기능을 개발하였으며
   서버 간 통신에 부분적으로 `gRPC` 를 적용하여 오버헤드를 줄인 경험이 있습니다.
 
   이런 경험과 프로덕트 개발을 통해 4개의 web3 해커톤에서 괄목 할 만한 [결과를](https://www.eblockmedia.com/news/articleView.html?idxno=820) 도출해내었으며,
-  회사의 Consensys 투자 유치를 이루어 냈습니다.
+  회사의 Consensys사 투자 유치를 이루어 냈습니다.
+
+  해커톤 수상 이력  
+    - `KlayMakers22 해커톤 1위`
+    - `BNB Hackathon Track #1: The Road towards Decentralized Society 2위`  
+    - `Coinbase Buidle The Future Track - Open Ideas 1위`  
+    - `Aptos Seoul Hack 2023 Gaming Track 1위`   
   
       
   |IDE|Groupware|CI/CD|Version Control|
