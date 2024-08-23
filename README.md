@@ -180,6 +180,12 @@ Web3 기업에서 백엔드 개발자를 맡고 있습니다.
     - 양방향 암호화 라이브러리
     - 전자봉투 암호화를 구현한 사내 NestJS Library
     - 데코레이터를 통한 Request, Repsonse parsing
+   
+ - **Brickgirls** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+    - 텔레그램 게임 생태계에 web3 게임 퍼블리싱 함
+    - 서버와 RDB 테이블 설계
+    - API 개발
+    - Telegram Bot 개발
     
   </div>
   
