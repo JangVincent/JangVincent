@@ -28,7 +28,7 @@ Web3 기업에서 백엔드 개발자를 맡고 있습니다.
   - KlayMakers22 해커톤 1위
   - BNB Hackathon Track #1: The Road towards Decentralized Society 2위
   - Coinbase Buidle The Future Track - Open Ideas 1위
-  - Aptos Seoul Hack 2023 Gaming Track 1위 
+  - Aptos Seoul Hack 2023 Gaming Track 1위  
 
 ### Side project
 - [**Timespace**](https://github.com/Phantola/TimeSpace) (22.12.03 ~ 23.04.29)
