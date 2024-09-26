@@ -1,11 +1,11 @@
-# BE Developer Phantola
+# BE Developer Vincent Jang
 
 > 스스로만 빛나는 개발자 보다는 달 처럼 다른 이들의 빛과 함께 화합할 수 있는 개발자
 
-[![Dev.to](https://img.shields.io/badge/Phantola's%20dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/phantolajang)
-[![Gmail](https://img.shields.io/badge/phantoladev@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:phantoladev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/phantola-0E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/phantola/)
-[![X](https://img.shields.io/badge/phantola-0A0A0A.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/phantola_dev)
+[![Dev.to](https://img.shields.io/badge/Vincent's%20dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/phantolajang)
+[![Gmail](https://img.shields.io/badge/vincentjangdev@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vincentjangdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/vincent-0E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vincentjang/)
+[![X](https://img.shields.io/badge/vincent-0A0A0A.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/vincent_j_dev)
 
 ## ✨ Introduction
 
@@ -27,11 +27,11 @@ Web3 기업에서 백엔드 개발자를 맡고 있습니다.
 - (현) Catze-Labs BE Developer (22.08.01 ~ )
 
 ### Personal Side project
-- [**Timespace**](https://github.com/Phantola/TimeSpace) (22.12.03 ~ 23.04.29)
+- [**Timespace**](https://github.com/JangVincent/TimeSpace) (22.12.03 ~ 23.04.29)
   - VS Code 의 하단 바에 현재 시간과 UTC 시간을 같이 보여주는 확장 프로그램 
   - Todo List / Alarm 기능
 
-- [**txview**](https://github.com/Phantola/txview) (23.11.24 ~ 23.11.26)
+- [**txview**](https://github.com/JangVincent/txview) (23.11.24 ~ 23.11.26)
   - 트랜잭션 조회 서비스
   - `Rust` 를 이용한 CLI tool
   - `Homebrew` 를 이용한 패키지 배포
@@ -266,5 +266,5 @@ TOEIC Score : 720 (2021)
 
 ### Used Programming Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantola&layout=compact)](https://github.com/Phantola/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangVincent&layout=compact)](https://github.com/JangVincent/github-readme-stats)
 
