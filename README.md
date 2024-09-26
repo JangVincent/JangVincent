@@ -2,7 +2,7 @@
 
 > 스스로만 빛나는 개발자 보다는 달 처럼 다른 이들의 빛과 함께 화합할 수 있는 개발자
 
-[![Dev.to](https://img.shields.io/badge/Vincent's%20dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/phantolajang)
+[![Dev.to](https://img.shields.io/badge/Vincent's%20dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vincentjang)
 [![Gmail](https://img.shields.io/badge/vincentjangdev@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vincentjangdev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/vincent-0E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vincentjang/)
 [![X](https://img.shields.io/badge/vincent-0A0A0A.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/vincent_j_dev)
