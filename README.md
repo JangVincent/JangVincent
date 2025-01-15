@@ -23,7 +23,8 @@
 
 ### Working Experiences
 - (전) VSQUARE FE/BE Developer (20.12.09 ~ 21.12.09)
-- (현) Catze-Labs BE Developer (22.08.01 ~ 24.10)
+- (전) Catze-Labs BE Developer (22.08.01 ~ 24.10)
+- (현) Gomble BE Developer (24.12 ~ )
 
 ### Personal Side project
 - [**Timespace**](https://github.com/JangVincent/TimeSpace) (22.12.03 ~ 23.04.29)
