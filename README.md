@@ -192,10 +192,26 @@
     - 텔레그램 게임 생태계에 web3 게임 퍼블리싱 함
     - 서버와 RDB 테이블 설계
     - API 개발
-    - Telegram Bot 개발
-    
+    - Telegram Bot 개발  
   </div>
-  
+</details>
+<details>
+  <summary><h3>Gomble (24.12 ~ )<h3></summary>
+  <div markdown="1">
+      
+  |IDE|Groupware|CI/CD|Version Control|
+  |----|----|----|----|
+  |VS Code, NeoVim, Cursor|Slack, Notion|Github Action, ECR/ECS |Git
+
+  #### 📜 Projects summary
+   
+ - **Gomble Squad** ![role-badge](https://img.shields.io/badge/Role-BE-skyblue)
+    - 텔레그램 게임 생태계에 web3 게임 퍼블리싱 함
+    - 서버와 RDB 테이블 설계
+    - API 개발
+    - Telegram Bot 개발
+    - TGE 준비 및 Launchpool#3 이벤트를 통한 DAU 200% 증가에 따른 안정적인 서비스 제공
+  </div>
 </details>
 
 ## 🛠 Common Tech Stack (Mostly Use)
