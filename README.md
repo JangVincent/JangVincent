@@ -61,6 +61,9 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trpc/trpc-original.svg" height="40" alt="notion logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
