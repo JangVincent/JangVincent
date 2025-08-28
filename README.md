@@ -109,10 +109,9 @@
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
 </div>
 
-###
-
+###  
+[![trophy](https://github-profile-trophy.vercel.app/?username=JangVincent&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=JangVincent&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JangVincent&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
