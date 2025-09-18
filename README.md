@@ -90,6 +90,8 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
