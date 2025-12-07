@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Creating bugs before 2011<br>📚 I'm currently learning Go and Flutter and System arch. Also I enjoy exploring and learning about various cutting-edge technologies.<br>🎯 Goals: Be a Digital Nomad<br>🎲 Fun fact: I love analogue things</h5>
+<h5 align="left">✨ Creating bugs before 2011<br>📚 I'm currently learning Go and server-side arch and System arch. Also I enjoy exploring and learning about various cutting-edge technologies.<br>🎯 Goals: Be a Digital Nomad<br>🎲 Fun fact: I love analogue things</h5>
 
 ###
 
