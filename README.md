@@ -34,15 +34,12 @@
 
 ###
 
-<h2 align="left">I generally use these tools.</h2>
+<h2 align="left">I generally use these.</h2>
 
 ###
 
+<h3 align="left">Languages</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -51,18 +48,29 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="15" />
+</div>
+
+<h3 align="left">Framworks & Libraries</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=elysia" height="40" alt="elysia logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trpc/trpc-original.svg" height="40" alt="notion logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="15" />
@@ -70,21 +78,28 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trpc/trpc-original.svg" height="40" alt="notion logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
+
+<h3 align="left">Tools</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+</div>
+  
+
+<h3 align="left">Infra</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ipfs" height="40" alt="ipfs logo"  />
   <img width="15" />
@@ -96,13 +111,29 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
   <img width="15" />
+</div>
+
+
+<h3 align="left">Databases</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="15" />
+</div>
+  
+  
+<h3 align="left">OS/Coworking Tools</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="15" />
@@ -112,6 +143,8 @@
 </div>
 
 ###  
+<br>
+<h2 align="left">Statistics</h2>
 <div align="center">
   <img src=https://github-trophies.vercel.app/?username=JangVincent&theme=onedark />
   <br/>
